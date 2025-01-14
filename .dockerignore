@@ -1,0 +1,9 @@
+.idea/
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+coverage/
+.vscode
+.DS_Store
+.nyc_output/

@@ -1,0 +1,3732 @@
+[{
+  "_id": {
+    "$oid": "5f342eebd7a4777d951b7215"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "edumodelo",
+  "FQDN": "https://edumodelodigits.xyz",
+  "domain": "edumodelodigits",
+  "extension": ".xyz",
+  "hostedZoneId": "Z031490938YAWBYIMB9P2",
+  "reference": "c2bf98f5-b0dc-5b50-bd41-8e011660d955",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1597255403691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1597255403763"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f12f6a4c4d4d062f973bc46"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "PENDING",
+  "username": "oluwaseuntemitope23",
+  "FQDN": "https://temtrendslimited.com",
+  "domain": "temtrendslimited",
+  "extension": ".com",
+  "hostedZoneId": "Z06311832XMB3QRPXQF9T",
+  "reference": "17d0c2e1-2b52-5c2a-847d-508e7115e92b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1595078308229"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1595078308296"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f3132b0e26a9f7d7a901906"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "simplesol",
+  "FQDN": "https://simplesolution.com.ng",
+  "domain": "Simplesolution",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z07847061XNCGWHS1LS2K",
+  "reference": "81c59aa8-5912-57d5-9603-a6802c02cd18",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1597059760094"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1597059760167"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f02437de152cd1780506437"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "PENDING",
+  "username": "printshq@gmail.com",
+  "FQDN": "https://bodyqueen.com.ng",
+  "domain": "BodyQueen",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z04417593OINERW5AYYJ8",
+  "reference": "6da85439-f350-5fe9-b088-480f6e087a45",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1593983869861"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1593983869923"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f189c0105dd55053cf5b83a"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "cjpemask",
+  "FQDN": "https://cjpemask.com",
+  "domain": "cjpemask",
+  "extension": ".com",
+  "hostedZoneId": "Z04290072FKL6X5SLJ29E",
+  "reference": "990e3aea-5855-5662-808d-e05762b3e4f9",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1595448321806"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1595448321881"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f204eca425ce304f518cf33"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "divineakachukwumedia",
+  "FQDN": "https://passionentrepreneurs.com",
+  "domain": "passionentrepreneurs",
+  "extension": ".com",
+  "hostedZoneId": "Z051104338L7R6BD4XLB4",
+  "reference": "d0db2c2f-1308-5961-b7c8-64a1744f3e64",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1595952842837"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1595952842900"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f31325dd7a4777d951b71dc"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "simplesol",
+  "FQDN": "https://totalwellness.com",
+  "domain": "Totalwellness",
+  "extension": ".Com",
+  "hostedZoneId": "Z057472733GG8E5FDFYDB",
+  "reference": "ad611048-3cc6-5f21-abf0-3da4067f58e0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1597059676984"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1597059677050"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f066dec5f039d272e43d2c7"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "afolabilamina",
+  "FQDN": "https://mymaxconsult.com",
+  "domain": "mymaxconsult",
+  "extension": ".com",
+  "hostedZoneId": "Z01746101LJBBKM8NCWMF",
+  "reference": "29b05fc8-c9ec-585b-a332-54612f7e6cd0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1594256876166"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1594256876229"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f16be96a6a3120543209fb5"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "adedigitalist",
+  "FQDN": "https://wealthcreators.com.ng",
+  "domain": "wealthcreators",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z03616701R9Q20YBAS0QL",
+  "reference": "86246592-94a4-5c1d-95c0-d11077cd637b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1595326102873"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1595326102943"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f1848cfa6a3120543209fc0"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "oluwaseunfawale",
+  "FQDN": "https://nifawlsgloballimited.travel",
+  "domain": "nifawlsgloballimited",
+  "extension": ".travel",
+  "hostedZoneId": "Z026928276K8U3K0LS98",
+  "reference": "b9ce7e54-51b2-5483-bd9e-9018d160f159",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1595427023463"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1595427023532"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f207af8ac1af604f7a69562"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "rutty",
+  "FQDN": "https://crystalglowplacecom.ng",
+  "domain": "Crystalglowplace",
+  "extension": "com.ng",
+  "hostedZoneId": "Z006304323W1H8ZVN0LHK",
+  "reference": "88682bb4-ee7d-5a69-a38c-4444bb7191c9",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1595964152082"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1595964152145"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f247425a6a312054320a020"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "rutty",
+  "FQDN": "https://crystalglowbeauty.com",
+  "domain": "Crystalglowbeauty",
+  "extension": ".com",
+  "hostedZoneId": "Z01262862JYGWENF2KGNI",
+  "reference": "43bdb4f7-9c37-5365-ae9c-9ce6f819da13",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1596224549168"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1596224549240"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f2b0e0aa6a312054320a04b"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "daniel",
+  "FQDN": "https://profitablesmartphonebiz.com",
+  "domain": "profitablesmartphonebiz",
+  "extension": ".com",
+  "hostedZoneId": "Z10417782B9000IYJMKL8",
+  "reference": "ea03df16-c4cb-5c56-a499-f54d94385aed",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1596657162560"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1596657162623"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f24748ba6a312054320a022"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "rutty",
+  "FQDN": "https://crystalglowplace.net",
+  "domain": "Crystalglowplace",
+  "extension": ".net",
+  "hostedZoneId": "Z010679919IWIUVFDB00W",
+  "reference": "d3f1b4f0-cf9c-5d22-8e94-9550445b3386",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1596224651119"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1596224651183"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f247497ac1af604f7a6957a"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "rutty",
+  "FQDN": "https://crystalglowplace.org",
+  "domain": "Crystalglowplace",
+  "extension": ".org",
+  "hostedZoneId": "Z079214025O16XN4PIRGZ",
+  "reference": "e02ed78e-f711-5860-b36e-9ae5341aa78f",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1596224663398"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1596224663461"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f066dd30a2a63274ee724eb"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "afolabilamina",
+  "FQDN": "https://afolabilamina.com",
+  "domain": "afolabilamina",
+  "extension": ".com",
+  "hostedZoneId": "Z01748951H336PBB55AMN",
+  "reference": "e7813d3c-4215-5a84-ae5d-01a3da74ba7a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1594256851718"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1594256851781"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f18668fa6a3120543209fc2"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "anointedsteve",
+  "FQDN": "https://diybizhacks.com",
+  "domain": "diybizhacks",
+  "extension": ".com",
+  "hostedZoneId": "Z03164421JIRQ5XHWCHKT",
+  "reference": "b1c2a410-de68-56c3-8efb-3ef8032107e7",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1595434638963"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1595434639023"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f020c9de152cd1780506432"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "oduwaiye.toba",
+  "FQDN": "https://latitudespace.com",
+  "domain": "latitudespace",
+  "extension": ".com",
+  "hostedZoneId": "Z04070972W4PM3A92CHSV",
+  "reference": "e659dc1c-1dd1-5514-9878-722f34e71a4b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1593969821097"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1593969821205"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f1058e9cd2225633350853a"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "PENDING",
+  "username": "adebola",
+  "FQDN": "https://lotusconsultcom.ng",
+  "domain": "lotusconsult",
+  "extension": "com.ng",
+  "hostedZoneId": "Z1014504MCQPDKZO6QHC",
+  "reference": "f653f625-3248-5fba-81e6-7860d64aa90e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1594906856950"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1594906857022"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f03a6576b3d36276aff1da2"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "empowermenthubafrica",
+  "FQDN": "https://empowermenthubafricacom.ng",
+  "domain": "empowermenthubafrica",
+  "extension": "com.ng",
+  "hostedZoneId": "Z04483911O4Z281HEZ5MW",
+  "reference": "33309755-ad83-5809-acd9-bb7028ee9de4",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1594074711386"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1594074711445"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f092cbe0a2a63274ee7251f"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "a1neonline",
+  "FQDN": "https://socialmediaadvertsguidepdf.com",
+  "domain": "Socialmediaadvertsguidepdf",
+  "extension": ".com",
+  "hostedZoneId": "Z01550081223KMTM5EF5H",
+  "reference": "25e55a77-38cd-55fb-a0cc-835e6dd256f5",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1594436798668"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1594436798729"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f2473f4425ce304f518cf48"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "rutty",
+  "FQDN": "https://crystalglowplace.com",
+  "domain": "Crystalglowplace",
+  "extension": ".Com",
+  "hostedZoneId": "Z0107339106HE41GFKQKV",
+  "reference": "28f306ec-dc66-5650-b8b3-6b1894c3215b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1596224500813"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1596224500880"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f29d6f0a6a312054320a044"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "skincarewithtoyinewa",
+  "FQDN": "https://swteacademy.com",
+  "domain": "swteacademy",
+  "extension": ".com",
+  "hostedZoneId": "Z098089211Q59A2AMCFGO",
+  "reference": "b4031eef-8738-56a8-9b91-c80735292c2a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1596577520758"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1596577520828"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f2ea28b4f760f7d797718ec"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "tunjigrace",
+  "FQDN": "https://tunjigrace_support.com",
+  "domain": "tunjigrace_support",
+  "extension": ".com",
+  "hostedZoneId": "Z09974862X3K3ZEMMFE5",
+  "reference": "d291ac55-1ab5-5b71-9507-c5269d3ecd6b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1596891787201"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1596891787269"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f33dc7c9218037d970b1063"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "gologistics",
+  "FQDN": "https://wheremoneyiscom.ng",
+  "domain": "wheremoneyis",
+  "extension": "com.ng",
+  "hostedZoneId": "Z073044422VRP8WC715JI",
+  "reference": "4fb080c3-9f6a-59df-bc89-548db4debe5d",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1597234300355"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1597234300417"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f10a3bbfef5086315a5fd1e"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "PENDING",
+  "username": "chidiwealth5",
+  "FQDN": "https://chidiwealthnetworks.com",
+  "domain": "Chidiwealthnetworks",
+  "extension": ".com",
+  "hostedZoneId": "Z054285615277M3GDOB0O",
+  "reference": "897be7d5-37f8-5d3c-babc-51fa8290040e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1594926011176"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1594926011248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f204ae8ac1af604f7a6955e"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "divineakachukwumedia",
+  "FQDN": "https://divineakachukwu.com",
+  "domain": "divineakachukwu",
+  "extension": ".com",
+  "hostedZoneId": "Z05041332M8GIZH1BVAGS",
+  "reference": "adcced39-01dc-5f2d-b654-ec66a699100d",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1595951848676"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1595951848749"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f133b18cd22256333508566"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "drmichaeladeyoju",
+  "FQDN": "https://ethoscom.ng",
+  "domain": "ethos",
+  "extension": "com.ng",
+  "hostedZoneId": "Z06241801MEPD6QLPPS87",
+  "reference": "1c7cb93d-6fc2-5b06-976a-54340d56c13a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1595095832794"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1595095832859"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f247467a6a312054320a021"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "rutty",
+  "FQDN": "https://crystalglowplace.com.ng",
+  "domain": "Crystalglowplace",
+  "extension": ".Com.ng",
+  "hostedZoneId": "Z01267162SQ78MKBT5FF2",
+  "reference": "155e60e9-47f4-5cdc-a4b2-e4a49dc6cca0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1596224615541"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1596224615602"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f3132824f760f7d79771908"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "simplesol",
+  "FQDN": "https://totalwellnessnow.com",
+  "domain": "Totalwellnessnow",
+  "extension": ".com",
+  "hostedZoneId": "Z0662464EM63AH975JHB",
+  "reference": "3056d4ea-3058-576b-94e6-93e45b0d2a56",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1597059714824"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1597059714885"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f33c10dd7a4777d951b720e"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "mrayor",
+  "FQDN": "https://temidayo.com.ng",
+  "domain": "temidayo",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z028147614HHAIR0NRK0J",
+  "reference": "e98d9682-277d-5c82-a9eb-93accc85aaad",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1597227277063"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1597227277128"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f01f31894957d175fb27462"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "BLOCKED",
+  "username": "a1ne online",
+  "FQDN": "https://a1socialmediaadvertisingguide.com",
+  "domain": "A1SOCIALMEDIAADVERTISINGGUIDE",
+  "extension": ".COM",
+  "hostedZoneId": "Z03679101FRNQRIU4D6W4",
+  "reference": "cf785435-17c7-56fd-8285-17e522172101",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1593963288044"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1593963288112"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f03522994957d175fb2747d"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "drmichaeladeyoju",
+  "FQDN": "https://ecgvirtual.com",
+  "domain": "ecgvirtual",
+  "extension": ".com",
+  "hostedZoneId": "Z04717418G6G3OJ7DKB3",
+  "reference": "a9cf71d2-9aa3-57a1-82e6-16a12fddd97c",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1594053161231"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1594053161298"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f03a6675f039d272e43d295"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "empowermenthubafrica",
+  "FQDN": "https://ehacom.ng",
+  "domain": "eha",
+  "extension": "com.ng",
+  "hostedZoneId": "Z04835881UUC6BQ51E0J8",
+  "reference": "a31bf5cf-7cde-54d2-82b1-0e5a19eb1259",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1594074727110"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1594074727183"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f313290d7a4777d951b71dd"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "simplesol",
+  "FQDN": "https://totalwellnessnow.com.ng",
+  "domain": "Totalwellnessnow",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z07851013L8SFKEZU3HJV",
+  "reference": "c4f12380-4edc-55c5-bfa9-6db3ab266526",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1597059728781"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1597059728842"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f33c0eb9218037d970b105e"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "mrayor",
+  "FQDN": "https://edtttrft.com",
+  "domain": "edtttrft",
+  "extension": ".com",
+  "hostedZoneId": "Z07126183KJYOUOUJMTFJ",
+  "reference": "7c3a66ce-8ce8-52d2-a83e-0613eb34b633",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1597227243863"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1597227243933"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f06f8dba26d782788ccd04f"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "jenzyorganic",
+  "FQDN": "https://jenzyorganic.com",
+  "domain": "Jenzyorganic",
+  "extension": ".Com",
+  "hostedZoneId": "Z003126035M5EQIXGDN39",
+  "reference": "e8ce068c-bae7-5aa0-b6bc-4b811378df1e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1594292443314"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1594292443385"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f092ca8a26d782788ccd068"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "a1neonline",
+  "FQDN": "https://socialmediaadvertsguide.com",
+  "domain": "Socialmediaadvertsguide",
+  "extension": ".com",
+  "hostedZoneId": "Z0805942JPM4O8KB6FO4",
+  "reference": "a169a99f-4f8d-53cf-b93c-1a2447ce153b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1594436776870"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1594436776935"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f3f11c8a2498677b875d368"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "PENDING",
+  "username": "pezz",
+  "FQDN": "https://pezzandchurchills.edu.com",
+  "domain": "Pezzandchurchills",
+  "extension": ".Edu.com",
+  "hostedZoneId": "Z06709752MZCCHLG9NA3N",
+  "reference": "23dce827-f31d-5aff-8111-9e274880e05d",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1597968840790"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1597968840862"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f43166088dfbd77b7755512"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "ACTIVE",
+  "username": "oguche4love",
+  "FQDN": "https://naijaeasyshop.com.ng",
+  "domain": "naijaeasyshop",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z07671422Y1WCMCPT5NM5",
+  "reference": "fcaf3e0e-4651-5aeb-bf70-603f5db917c5",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1598232160412"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1598232160479"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f4394a6a2498677b875d384"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "BLOCKED",
+  "username": "contentclick",
+  "FQDN": "https://danielf.com",
+  "domain": "danielf",
+  "extension": ".com",
+  "hostedZoneId": "Z0673253WLDG6JLF0LQG",
+  "reference": "2f2f5fdd-e8bf-5ddf-bf84-7d35a9744797",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1598264486155"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1598264486220"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f4519dda2498677b875d38e"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "giantstargroup",
+  "FQDN": "https://kulest.com.ng",
+  "domain": "kulest",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z03152271UOIIDYHMUM41",
+  "reference": "eb7f7afc-41d4-5986-9336-1d2784c9cd50",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1598364125091"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1598364125161"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f499ec577202177d611cfa0"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "bayseek",
+  "FQDN": "https://naturewellnesshub.com",
+  "domain": "naturewellnesshub",
+  "extension": ".com",
+  "hostedZoneId": "Z01417563CEW6WG8FK029",
+  "reference": "70e7d111-241e-5a80-a18e-a97d91067e19",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1598660293842"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1598660293906"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f4a438aa0642f77d5ea1a4f"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "mrayor",
+  "FQDN": "https://testmoo.com",
+  "domain": "testmoo",
+  "extension": ".com",
+  "hostedZoneId": "Z003997531UBHAL83YC06",
+  "reference": "63199cc2-3431-5dd8-a6e9-a57608df98a8",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1598702474265"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1598702474330"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f4a43b488dfbd77b775552d"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "mrayor",
+  "FQDN": "https://testwee.com",
+  "domain": "testwee",
+  "extension": ".com",
+  "hostedZoneId": "Z01482681JA77DT2D6U4H",
+  "reference": "9b529483-7aa2-590c-8172-f199ea079301",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1598702516294"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1598702516362"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f4cf19777202177d611cfb2"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "kendriod91",
+  "FQDN": "https://kendriod.com",
+  "domain": "Kendriod",
+  "extension": ".com",
+  "hostedZoneId": "Z01384983LI6FWIP34OQT",
+  "reference": "e01f95f5-7f91-5485-864c-0e3cb205942a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1598878103465"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1598878103530"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f4cf1bba0642f77d5ea1a6a"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "kendriod91",
+  "FQDN": "https://kendriod.net",
+  "domain": "Kendriod",
+  "extension": ".Net",
+  "hostedZoneId": "Z0081010K5VIB3NDZNXY",
+  "reference": "d6b64e4d-ccd2-5951-8f75-348513560ebb",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1598878139737"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1598878139805"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f4f6d9c88dfbd77b7755572"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "PENDING",
+  "username": "affiliateguru",
+  "FQDN": "https://oluwaphemmy.co",
+  "domain": "oluwaphemmy",
+  "extension": ".co",
+  "hostedZoneId": "Z01911323MW29Y1K739JS",
+  "reference": "ce14f266-b9cc-5753-863e-0a2f459eebc7",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1599040924196"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1599040924261"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f5130d3a0642f77d5ea1aab"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "tiiwaih",
+  "FQDN": "https://tmvideoadscom.ng",
+  "domain": "TMVideoAds",
+  "extension": "com.ng",
+  "hostedZoneId": "Z07893152GIJS9SIC462W",
+  "reference": "34bc2614-f514-554c-bfe5-b7a427d680e7",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1599156435081"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1599156435144"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f58d8ea88dfbd77b77555e0"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "PENDING",
+  "username": "coachndidi",
+  "FQDN": "https://gohealthyngcom.ng",
+  "domain": "gohealthyng",
+  "extension": "com.ng",
+  "hostedZoneId": "Z02717423PK41AGEWBYYK",
+  "reference": "6bed7afd-ebd9-5ad8-8e5a-a644622117d4",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1599658218452"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1599658218519"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f5afc9c88dfbd77b77555f1"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "integrimart",
+  "FQDN": "https://integrimart.com",
+  "domain": "Integrimart",
+  "extension": ".Com",
+  "hostedZoneId": "Z03245823093PJO4HQH0S",
+  "reference": "ddaa9b54-7201-5fc1-b720-89e860621335",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1599798428328"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1599798428435"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f5afd12a0642f77d5ea1af1"
+  },
+  "nsRecords": [
+    "ns-553.awsdns-05.net",
+    "ns-231.awsdns-28.com",
+    "ns-1615.awsdns-09.co.uk",
+    "ns-1386.awsdns-45.org"
+  ],
+  "status": "FAILED",
+  "username": "integrimart",
+  "FQDN": "https://integrimart.softlink.ai",
+  "domain": "Integrimart",
+  "extension": ".Softlink.ai",
+  "hostedZoneId": "Z07267249IWX34FW48B",
+  "reference": "7bae7c76-73a6-56fd-bf06-14f561ff583a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1599798546473"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1599798546543"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f80a62e85955b0ac702f2e1"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "danielfolley",
+  "FQDN": "https://digitaltitan.xyz",
+  "domain": "digitaltitan",
+  "extension": ".xyz",
+  "hostedZoneId": "Z01020263MK25AZJFFCZB",
+  "reference": "235c7bc8-cf68-56f2-9474-e6f983f20745",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1602266670371"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1602266670435"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5fa902c339ad746c48e960a3"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "contentclick",
+  "FQDN": "https://danielfolleysmeclinic.com",
+  "domain": "danielfolleysmeclinic",
+  "extension": ".com",
+  "hostedZoneId": "Z0375174SXX3EIMB01VL",
+  "reference": "0d9dfcee-d1e0-537d-b079-6549f6312957",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1604911810992"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1604911811072"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5fa93f6be733c04feb44c229"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "daproff09",
+  "FQDN": "https://rubenrenad.com",
+  "domain": "rubenrenad",
+  "extension": ".com",
+  "hostedZoneId": "Z008551936X1GXRQWA8F",
+  "reference": "68f0767b-ef0d-5f01-8054-fd251af29480",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1604927339483"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1604927339549"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5faa7f3de733c04feb44c241"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "basicprosoftlink",
+  "FQDN": "https://danielfolley.site",
+  "domain": "danielfolley",
+  "extension": ".site",
+  "hostedZoneId": "Z0059497U244KLFGC2VC",
+  "reference": "07883eab-a704-5bd9-94d9-c7706ea39969",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1605009213313"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1605009213383"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5fad318c95d07a4fe4fae15c"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "contentclick",
+  "FQDN": "https://contentclick.ng",
+  "domain": "contentclick",
+  "extension": ".ng",
+  "hostedZoneId": "Z02280513O5JT20HNTOCN",
+  "reference": "ad844d17-2237-504d-985b-c1777dcee7a2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1605185932081"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1605185932151"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5faec68e95d07a4fe4fae17b"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "cjason5",
+  "FQDN": "https://salesmagnett.com",
+  "domain": "salesmagnett",
+  "extension": ".com",
+  "hostedZoneId": "Z02304932G8S1P6PWE8VP",
+  "reference": "08eb782d-c742-54e4-9034-72c844708995",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1605289614453"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1605289614526"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5fc4ebdb3c04332e38bde4e0"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "prophetrichadenuga",
+  "FQDN": "https://prophetrichadenuga.com",
+  "domain": "prophetrichadenuga",
+  "extension": ".com",
+  "hostedZoneId": "Z07961023PLFAX9BASH5R",
+  "reference": "54918e19-3a5a-58aa-b1f5-86cf8f622817",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1606740955356"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1606740955425"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5fcbca9e2aa39d1237272ca8"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "365lifemedia",
+  "FQDN": "https://osbag.com.ng",
+  "domain": "osbag",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z07163201RR3OM18TXN9Q",
+  "reference": "a45bbb8b-fe58-52ba-8041-6cb9f58f2ef8",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1607191198210"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1607191198285"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6001a9de350e975925aab33e"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "debenjamine",
+  "FQDN": "https://darllelendu.com",
+  "domain": "darllelendu",
+  "extension": ".com",
+  "hostedZoneId": "Z10065373CNEB6Z1QPUE5",
+  "reference": "ecdb9181-e6f9-50be-ae3c-75bc44b7ef78",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1610721758021"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1610721758084"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60035d72105ad404bd86eeeb"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "tectutorials",
+  "FQDN": "https://milliondollarbakery.com",
+  "domain": "milliondollarbakery",
+  "extension": ".com",
+  "hostedZoneId": "Z05999701JBX5YUT9VWSK",
+  "reference": "81c05439-8f13-5257-96a1-a8c169262c5b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1610833266047"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1610833266116"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6006c9a2fd797e04b585a493"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "daibeb",
+  "FQDN": "https://healthbc.com.ng",
+  "domain": "healthbc",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z07707113E0OGTNQMCJZD",
+  "reference": "bbd7adcc-2aea-5969-a384-513a33fc6412",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1611057570765"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1611057570835"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6009e38acc4e4144990c48ed"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "midridge",
+  "FQDN": "https://midridgecourses.com",
+  "domain": "midridgecourses",
+  "extension": ".com",
+  "hostedZoneId": "Z04894123VB54MM08SLDH",
+  "reference": "5d33411c-da10-5a72-830d-31712000147e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1611260810346"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1611260810436"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "601040bed2428575faf5d288"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "opebighead",
+  "FQDN": "https://opeyemiadesina.com",
+  "domain": "opeyemiadesina",
+  "extension": ".com",
+  "hostedZoneId": "Z098353111JRH1HBG7PMD",
+  "reference": "07c26009-0641-5944-a466-b284483c2513",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1611677886914"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1611677886982"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6014caeaabbfbc261951ce9c"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "laforteacademy",
+  "FQDN": "https://laforteacademy.com",
+  "domain": "laforteacademy",
+  "extension": ".com",
+  "hostedZoneId": "Z06325581UL0LVRYBXKZH",
+  "reference": "b616f3c4-aa09-5683-9f9e-cd5e77cf8f7e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1611975402113"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1611975402175"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "601c428b8aa0ed25f105dbe7"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "growthwithjd",
+  "FQDN": "https://growthwithjd.com",
+  "domain": "growthwithjd",
+  "extension": ".com",
+  "hostedZoneId": "Z00712891G8VN2JSKLR3J",
+  "reference": "a18c7503-b9fb-5a1e-abdf-255468916c31",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1612464779348"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1612464779414"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "601f10718aa0ed25f105dc72"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "learnwithuche",
+  "FQDN": "https://learnwithuche.xyz",
+  "domain": "learnwithuche",
+  "extension": ".xyz",
+  "hostedZoneId": "Z02201153E31SM5C7NYUP",
+  "reference": "7876d285-91ac-57b7-8d7f-a38de27b1312",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1612648561238"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1612648561303"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60324f948aa0ed25f105df41"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "accountsanddata",
+  "FQDN": "https://accountsanddata.net",
+  "domain": "accountsanddata",
+  "extension": ".net",
+  "hostedZoneId": "Z08797371WK708JS01MU1",
+  "reference": "8313601e-bf63-5c7b-8d62-df193d65da08",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1613909908172"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1613909908242"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6049ce36fd76d30210c7e7b8"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "regischooloffashion",
+  "FQDN": "https://regifashioncourse.com",
+  "domain": "regifashioncourse",
+  "extension": ".com",
+  "hostedZoneId": "Z07875132MP6QTBS7GYKT",
+  "reference": "853c7140-38bc-538c-8ecf-f1c6ab307f30",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1615449654470"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1615449654555"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "605328a0cd19b22fdb291898"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "BLOCKED",
+  "username": "godblessnigeria",
+  "FQDN": "https://growthpc.com",
+  "domain": "growthpc",
+  "extension": ".com",
+  "hostedZoneId": "Z01696542YNVAF990A6BU",
+  "reference": "89254dbf-61d2-5272-ad59-d049f82b9b77",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1616062624523"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1616062624584"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6053755430f92b23b324700c"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "BLOCKED",
+  "username": "godblessnigeria",
+  "FQDN": "https://hommy.com",
+  "domain": "hommy",
+  "extension": ".com",
+  "hostedZoneId": "Z09115592CWD8EGADVHS1",
+  "reference": "4f677def-f086-5f4c-822e-ad694246aecc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1616082260554"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1616082260644"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "605384f518a1592fba3a2df1"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "bencruze",
+  "FQDN": "https://trenzordigitalskill.com",
+  "domain": "trenzordigitalskill",
+  "extension": ".com",
+  "hostedZoneId": "Z01778692BHCQKY2U250D",
+  "reference": "b1c83921-3e16-501b-8e30-fee0e5b2e908",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1616086261560"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1616086261628"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "607aabec382a111c6bfb7c47"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "youngdamsel",
+  "FQDN": "https://slaysmartwears.com",
+  "domain": "slaysmartwears",
+  "extension": ".com",
+  "hostedZoneId": "Z01805113A16LWY8HK4OL",
+  "reference": "76307a91-cdca-52c3-94dc-285f74e3e76c",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1618652140544"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1618652140606"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6085c030e4789c4bca7f569f"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "pageantstyle",
+  "FQDN": "https://pageantstyle.com.ng",
+  "domain": "pageantstyle",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z02072222CRFXERL6YHFO",
+  "reference": "29ee71b6-5cc7-5b89-b73d-49af3c85ef3c",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1619378224769"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1619378224829"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "608a9a86ca1d1c1fbcef69d2"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "ec2-35-179-95-101",
+  "FQDN": "https://testdomaintest.com",
+  "domain": "testdomaintest",
+  "extension": ".com",
+  "hostedZoneId": "Z08033081739HE7U5W4JU",
+  "reference": "bff3a4dd-ac6b-57ee-94be-94853ecc5cb7",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1619696262582"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1619696262638"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "608aaa5e5869232c8ebe0460"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "ec2-35-179-95-101",
+  "FQDN": "https://totestdomain22.com",
+  "domain": "totestdomain22",
+  "extension": ".com",
+  "hostedZoneId": "Z09689193KGQPTARNL5P2",
+  "reference": "e1e0a2e3-724c-575b-87a0-989a275a7b1b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1619700317937"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1619700318002"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6092b255bb06d17d179bab37"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "ec2-35-179-95-101",
+  "FQDN": "https://testdomainissue.com",
+  "domain": "testdomainissue",
+  "extension": ".com",
+  "hostedZoneId": "Z00529082MMTFI7HKORMM",
+  "reference": "0d5421ad-7918-52ff-b264-5b5bd87116dd",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1620226645808"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1620226645895"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6092b63ffc7b4e7d44ed5549"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "ec2-35-179-95-101",
+  "FQDN": "https://skillprenuer.com",
+  "domain": "skillprenuer",
+  "extension": ".com",
+  "hostedZoneId": "Z03065573Q4KOWCYXSGHR",
+  "reference": "c261cc8f-2b78-52c6-8e7c-eee1c689110d",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1620227647124"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1620227647192"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6093ebd2bb06d17d179bab5a"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "peculiariyaye",
+  "FQDN": "https://weshop4ustores.com",
+  "domain": "weshop4ustores",
+  "extension": ".com",
+  "hostedZoneId": "Z04872233TN6AQIIDIQVP",
+  "reference": "f7837b88-99bc-59ef-b01f-9b090f90b8cc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1620306898671"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1620306898733"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6094596cfc7b4e7d44ed5562"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "touchgoldcakes",
+  "FQDN": "https://cakesandgift.com",
+  "domain": "cakesandgift",
+  "extension": ".com",
+  "hostedZoneId": "Z00689672BFC9BF9D38Z9",
+  "reference": "07716718-1bcc-51e9-8191-826fcf2d9d92",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1620334956292"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1620334956350"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6097e742fdd5267d15fdfc75"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "smemastermind",
+  "FQDN": "https://edwardiwere.com",
+  "domain": "edwardiwere",
+  "extension": ".com",
+  "hostedZoneId": "Z08896759JEHSCR2K8IA",
+  "reference": "f487c466-0181-51c1-9864-8c77f5b5875c",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1620567874350"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1620567874411"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "609e5530fdd5267d15fdfd12"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "davidorlahfarms",
+  "FQDN": "https://davidorlahgoc.com",
+  "domain": "davidorlahgoc",
+  "extension": ".com",
+  "hostedZoneId": "Z09264262RIOM3LQ2YVK",
+  "reference": "b7842d66-18da-59e2-9a09-ad8d526ac921",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1620989232225"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1620989232281"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60a2dfc3bb06d17d179bacc7"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "businessheight",
+  "FQDN": "https://thebusinessheight.com",
+  "domain": "thebusinessheight",
+  "extension": ".com",
+  "hostedZoneId": "Z029273028SE4AEEEQSRR",
+  "reference": "5c4c8b03-b5d9-5655-a636-1a5be361fa11",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621286851451"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1621286851515"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60a8de5c3a56ef53e8abd718"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "akoniledeyoruba",
+  "FQDN": "https://akoniledeyorubaonline.com",
+  "domain": "akoniledeyorubaonline",
+  "extension": ".com",
+  "hostedZoneId": "Z05524576DNGH0QZH1CW",
+  "reference": "d925174a-dde9-5a87-b001-cc86784f5fdc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621679708749"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1621679708809"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60ac264e0762a848c2ead131"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "chiamaka88",
+  "FQDN": "https://chicnailsng.com",
+  "domain": "chicnailsng",
+  "extension": ".com",
+  "hostedZoneId": "Z00457963HRUADFE1EOVZ",
+  "reference": "7c4a034b-e356-53bd-a396-143d66775d01",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621894734683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1621894734743"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60b0e9d7d3f67c3ca4fdd096"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "teesamarena",
+  "FQDN": "https://ultimatevalue.com.ng",
+  "domain": "ultimatevalue",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z09887133RD6ZQ5RU2LNN",
+  "reference": "4e9a3a5f-a0d1-5b36-bc4c-1c13cb77555b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1622206935240"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1622206935301"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60b0ecddd3f67c3ca4fdd098"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "rmtrends",
+  "FQDN": "https://rmtrends20.com",
+  "domain": "rmtrends20",
+  "extension": ".com",
+  "hostedZoneId": "Z07743322V72BF945JMPJ",
+  "reference": "145ab6af-d851-5d7a-be51-c4c1ac595678",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1622207709898"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1622207709955"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60b62d31a2d1673c7e142e52"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "sunkyade",
+  "FQDN": "https://thecrashbook.com.ng",
+  "domain": "thecrashbook",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z09017713DUQJAY4BFRTC",
+  "reference": "70b367bd-7e1d-5f54-a000-ceb52aff6b95",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1622551857748"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1622551857806"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60c8bca44e5efe18734c5c76"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "prime87",
+  "FQDN": "https://primeassetrealtors.com.ng",
+  "domain": "primeassetrealtors",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z07742131Z489DA1SE3DH",
+  "reference": "0aad77ed-9b47-51c0-bb12-b758ff6165b1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1623768228096"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1623768228158"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60d305afb450411888cf5365"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "theperfumemadam",
+  "FQDN": "https://theperfumemadam.com",
+  "domain": "theperfumemadam",
+  "extension": ".com",
+  "hostedZoneId": "Z065351229VKE4BBH2N5G",
+  "reference": "5ac988eb-1b91-51d0-b664-160fb299a884",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1624442287884"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1624442287941"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60db1883ea830b798a1ced47"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "BLOCKED",
+  "username": "danclick",
+  "FQDN": "https://elobyteinfotech.shop",
+  "domain": "elobyteinfotech",
+  "extension": ".shop",
+  "hostedZoneId": "Z01503336RTJ09EWL6IO",
+  "reference": "ebf147ba-4e54-5e9d-b577-eaf3b68997a1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1624971395103"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1624971395177"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61095f04b8ee3627d30c23af"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "olorunloba",
+  "FQDN": "https://salesfunnelmasterycourse.com",
+  "domain": "salesfunnelmasterycourse",
+  "extension": ".com",
+  "hostedZoneId": "Z043157610OZKB862D6R5",
+  "reference": "5f0ae14d-2d55-5e17-84cb-011b90c9c547",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1628004100321"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1628004100383"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612d1908542ab8210294ba50"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "samcruzy",
+  "FQDN": "https://samcruzyglobal.com",
+  "domain": "samcruzyglobal",
+  "extension": ".com",
+  "hostedZoneId": "Z0035715BWY5STLNVTQS",
+  "reference": "a3b7b0a8-bb87-552f-a2b3-ef65f9c2af81",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1630345480656"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1630345480720"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "613a4e4e474100155f80498a"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "transformerstribe",
+  "FQDN": "https://transformerstribe.xyz",
+  "domain": "transformerstribe",
+  "extension": ".xyz",
+  "hostedZoneId": "Z05168922FVSRM5K303ZI",
+  "reference": "e3166af8-cb50-5a48-9687-e7813527e9e4",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1631211086442"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1631211086506"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "613fce5db85047159d615255"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "midnizhairs",
+  "FQDN": "https://midnizhairs.com",
+  "domain": "midnizhairs",
+  "extension": ".com",
+  "hostedZoneId": "Z08724533VWJ8FMCJWV2X",
+  "reference": "09c64f5f-7cd3-5a1d-a729-52d89ecac91d",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1631571549693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1631571549755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61432eeff1cdd115609d3770"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "zelinebeauty",
+  "FQDN": "https://zelinebeauty.com",
+  "domain": "zelinebeauty",
+  "extension": ".com",
+  "hostedZoneId": "Z06381221FC942TL1WQA2",
+  "reference": "14ce5e05-e076-5a24-a2bf-7498aed21394",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1631792879493"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1631792879557"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "614455177fd295159ec922cc"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "contentclick",
+  "FQDN": "https://danielfolley.com",
+  "domain": "danielfolley",
+  "extension": ".com",
+  "hostedZoneId": "Z10144672LUV4U0QG3LQQ",
+  "reference": "37ad5705-f17f-5102-8114-09d586e7f6f9",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1631868183796"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1631868183858"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "614bab647fd295159ec92554"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "adirerave",
+  "FQDN": "https://adirebyteeny.com",
+  "domain": "adirebyteeny",
+  "extension": ".com",
+  "hostedZoneId": "Z00261203TO0CCGJE6OC2",
+  "reference": "53b09b6d-0563-5126-a7c6-9e1412e09231",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1632349028728"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1632349028790"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61546415b85047159d61d374"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "bridgebrandsandpr",
+  "FQDN": "https://bridgebrandsandpr.xyz",
+  "domain": "bridgebrandsandpr",
+  "extension": ".xyz",
+  "hostedZoneId": "Z04956383D6JNBAPM4KS2",
+  "reference": "5ae6e589-d0a0-566e-a831-8a9e5b0cf041",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1632920597184"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1632920597247"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6154f6ac7fd295159ec92723"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "jessibonnet",
+  "FQDN": "https://jessibonnet.com",
+  "domain": "jessibonnet",
+  "extension": ".com",
+  "hostedZoneId": "Z006366824HNXN41A3YA6",
+  "reference": "7081981e-cf98-540e-afe1-e59ead086fc4",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1632958123973"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1632958124038"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6158beb5b85047159d61de94"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "shoppurplebyjennifer",
+  "FQDN": "https://purplebyjennifer.com",
+  "domain": "purplebyjennifer",
+  "extension": ".com",
+  "hostedZoneId": "Z03443553F29OGLY3FCRN",
+  "reference": "63e2ff20-e00e-585f-9b20-d831cb7b61f9",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633205941489"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633205941552"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "615b0fa1474100155f805b10"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "sammied",
+  "FQDN": "https://sammydammy.com",
+  "domain": "sammydammy",
+  "extension": ".com",
+  "hostedZoneId": "Z0136429RET8Q6DYFDF0",
+  "reference": "9d6c4320-26e1-59eb-a178-c07962de8103",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633357729695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633357729756"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6162cc0277cccd485dc4a41e"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "iyanuthegreat",
+  "FQDN": "https://rityanblog.com",
+  "domain": "rityanblog",
+  "extension": ".com",
+  "hostedZoneId": "Z0703759CN7FVN08L4KK",
+  "reference": "ded7a949-46a6-5d53-a5c7-501d047fb891",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633864706396"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633864706453"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6163072a8cd606489b28ec9f"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "rummiesbeads",
+  "FQDN": "https://rummiesstores.com.ng",
+  "domain": "rummiesstores",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z101209427G10CH5KQS8C",
+  "reference": "2f36faab-bef6-5269-86a6-1d032d51c9ca",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633879850043"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633879850114"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6164a01e5c3347361600864f"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "BLOCKED",
+  "username": "akoniledeyoruba",
+  "FQDN": "https://thedamilareigbayiloye.com",
+  "domain": "thedamilareigbayiloye",
+  "extension": ".com",
+  "hostedZoneId": "Z02987911LL0W994849M1",
+  "reference": "0cc860c7-64c0-5e88-b64f-358a4613d1b4",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633984542760"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633984542821"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6165985716436a35cd2dfa21"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "finecandleslagos",
+  "FQDN": "https://finecandleslagos.com",
+  "domain": "finecandleslagos",
+  "extension": ".com",
+  "hostedZoneId": "Z066046831C8BVDAFWVFO",
+  "reference": "7f01cd1d-dc08-5d3f-be71-b387c16ed656",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1634048087622"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1634048087690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61708fd22dc5e31ea35f1fb7"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "health",
+  "FQDN": "https://wellnessavenue.info",
+  "domain": "wellnessavenue",
+  "extension": ".info",
+  "hostedZoneId": "Z08713871VT033UJGATUT",
+  "reference": "9a4553b0-46ab-50d6-bfa0-9a82d6d20062",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1634766802501"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1634766802557"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "617127e1c2ba031e6502cb8b"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "aakpevwe",
+  "FQDN": "https://miglefoods.com",
+  "domain": "miglefoods",
+  "extension": ".com",
+  "hostedZoneId": "Z02990761Q6UUJCJJY3S4",
+  "reference": "e68a2189-4be4-5f92-b43e-9b2f667e16e0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1634805729498"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1634805729558"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61768d6dc0a5eb1ea47c1e8b"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "bitmaniac",
+  "FQDN": "https://workwithinnocent.com",
+  "domain": "workwithinnocent",
+  "extension": ".com",
+  "hostedZoneId": "Z0174058HF5H842H608P",
+  "reference": "381e8f3b-20d9-5938-a63a-8b0eee799677",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1635159405833"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1635159405899"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61795920c2ba031e6502e7c5"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "jolade21",
+  "FQDN": "https://mofemart.com.ng",
+  "domain": "mofemart",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z0346034WD89IFPFP5Y2",
+  "reference": "f83204d3-4a6b-55db-a948-89c34c2f68c0",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1635342624222"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1635342624290"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "617c35a89eb83e1e66c146a2"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "loisyaya",
+  "FQDN": "https://martemporium.com",
+  "domain": "martemporium",
+  "extension": ".com",
+  "hostedZoneId": "Z0013164B82TXPODA542",
+  "reference": "7453d7e3-12ab-52d1-9b3e-08d5d2d7dd06",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1635530152782"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1635530152849"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61825352c2ba031e6502e8eb"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "krubybeautyproduct",
+  "FQDN": "https://krubyskincare.com",
+  "domain": "krubyskincare",
+  "extension": ".com",
+  "hostedZoneId": "Z05990192DOLH3OLSL0S0",
+  "reference": "8c1b2abe-a6ed-5df2-b091-e38c5236a8b3",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1635930962630"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1635930962689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "618530abc2ba031e65032055"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "barney",
+  "FQDN": "https://baniretakuro.com",
+  "domain": "baniretakuro",
+  "extension": ".com",
+  "hostedZoneId": "Z0083418132LI9681UVUO",
+  "reference": "d59bd8b4-99b2-5c88-8906-0855cda9a716",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1636118699205"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1636118699264"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "618552eac0a5eb1ea47c2081"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "BLOCKED",
+  "username": "adetmedia",
+  "FQDN": "https://adetgroups.com",
+  "domain": "adetgroups",
+  "extension": ".com",
+  "hostedZoneId": "Z01076092ZWJWAXP0TUP6",
+  "reference": "e5db2f35-40e2-5f25-8541-174340b33d9f",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1636127466485"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1636127466573"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "618bed9dc0a5eb1ea47c21af"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "boleboxx",
+  "FQDN": "https://boleboxx.online",
+  "domain": "boleboxx",
+  "extension": ".online",
+  "hostedZoneId": "Z01415461OAM7F3FR322D",
+  "reference": "c0e6cbf8-e142-56f4-aa3a-d8e157f2f409",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1636560285787"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1636560285845"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "618c1dcb9eb83e1e66c1d6ff"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "emuan",
+  "FQDN": "https://ccbgroup.ca",
+  "domain": "ccbgroup",
+  "extension": ".ca",
+  "hostedZoneId": "Z01365365MKOI0HSA65",
+  "reference": "c0d8692f-1975-5080-8f5f-5dfb614847c5",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1636572619002"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1636572619062"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "618ea2a29eb83e1e66c20e98"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "speakerife",
+  "FQDN": "https://badassguy.net",
+  "domain": "badassguy",
+  "extension": ".net",
+  "hostedZoneId": "Z08064232BO7DHCOD63EW",
+  "reference": "1020bac6-5cc2-5176-a5bc-75e7d523b081",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1636737698294"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1636737698353"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "618ea2e5c2ba031e65033611"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "speakerife",
+  "FQDN": "https://dailyalert.academy",
+  "domain": "dailyalert",
+  "extension": ".academy",
+  "hostedZoneId": "Z0569941AFWZ04NU9W6E",
+  "reference": "b56fe740-2416-5121-a71d-a74dd3110256",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1636737765820"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1636737765884"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "619270919eb83e1e66c22346"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "b4youpay",
+  "FQDN": "https://farmbanking.ng",
+  "domain": "farmbanking",
+  "extension": ".ng",
+  "hostedZoneId": "Z10136681UIQL2UKZG6TW",
+  "reference": "e6375714-0dd3-5137-a83b-19a8cc064f2e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1636987025420"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1636987025486"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61977d66c45d9d39828f8a90"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "thingsmadeposh",
+  "FQDN": "https://thingsmadeposh.com",
+  "domain": "thingsmadeposh",
+  "extension": ".com",
+  "hostedZoneId": "Z06280782ARVYUB7YIFGZ",
+  "reference": "7ef868fd-5b95-5dcb-b55c-a6ee8664f804",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1637317990516"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1637317990581"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61979755bceb9739806b2f9c"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "tolani",
+  "FQDN": "https://bespokeleap.net",
+  "domain": "bespokeleap",
+  "extension": ".net",
+  "hostedZoneId": "Z06480251YY39SYZZL8C2",
+  "reference": "a26b75cd-5446-5a58-b9bf-1f67511ef619",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1637324629568"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1637324629629"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "619a657668cd057bf7382ee4"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "chukwuebuka",
+  "FQDN": "https://archilence.com",
+  "domain": "archilence",
+  "extension": ".com",
+  "hostedZoneId": "Z04484221GU6R6EIDHTSM",
+  "reference": "c89dc92f-14f8-5c41-ac10-a43ed08b4686",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1637508470244"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1637508470334"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61a5f7697bb0b525c2164e3f"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "lousiana",
+  "FQDN": "https://bigshots.me",
+  "domain": "bigshots",
+  "extension": ".me",
+  "hostedZoneId": "Z03455521QPP24TAV32PH",
+  "reference": "c93fb208-edc9-5f8f-a1fc-39c4283bf071",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638266729917"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1638266729996"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61b3979ffe425c51382da237"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "FAILED",
+  "username": "mohammed58",
+  "FQDN": "https://ebonydigitalsolutions.com",
+  "domain": "ebonydigitalsolutions",
+  "extension": ".com",
+  "hostedZoneId": "Z08162802XX9MU8IILGCL",
+  "reference": "0d99ebc2-3b60-5420-adc2-daa5d0ac194d",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1639159711036"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1639159711094"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61c88efd15e7a104b3c65b3e"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "ronkeamos",
+  "FQDN": "https://ronkeamosacademy.com",
+  "domain": "ronkeamosacademy",
+  "extension": ".com",
+  "hostedZoneId": "Z06577063R2A4JFGNMOMR",
+  "reference": "b1db8ea7-f125-578f-a74f-c2ab3b8d8359",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1640533757218"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1640533757278"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61d718f15fb8433aa1511b9a"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "quickstartconsult",
+  "FQDN": "https://quickstartacademy.net",
+  "domain": "quickstartacademy",
+  "extension": ".net",
+  "hostedZoneId": "Z07552443PRGT1K0LZM8B",
+  "reference": "68289091-9a35-5fbb-9fb3-f4215edc1cb3",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1641486577595"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1641486577665"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61dafe4624807842f5717404"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "BLOCKED",
+  "username": "princeolatunji",
+  "FQDN": "https://globalwealthbuilder.org",
+  "domain": "globalwealthbuilder",
+  "extension": ".org",
+  "hostedZoneId": "Z034332630YUFBOMR63IC",
+  "reference": "e263ce8b-9989-5861-9024-fef094144195",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1641741894239"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1641741894294"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61dd7ad929a38a488b94fb30"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "transformerstribe",
+  "FQDN": "https://stepupconference.xyz",
+  "domain": "stepupconference",
+  "extension": ".xyz",
+  "hostedZoneId": "Z0000397235P1LMNZZHPT",
+  "reference": "a3c04fcd-57c5-5638-9222-303f04e97b1f",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1641904857512"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1641904857572"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61e1b26b37c38504b56effc9"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "tobainexcess",
+  "FQDN": "https://latitudespaceworld.com",
+  "domain": "latitudespaceworld",
+  "extension": ".com",
+  "hostedZoneId": "Z0855621241650LOT7USV",
+  "reference": "c02f9460-d343-5a8d-a710-48399d7281d4",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642181227203"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1642181227264"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61e41c5837c38504b56f0070"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "waltech",
+  "FQDN": "https://waltechconsultant.com",
+  "domain": "waltechconsultant",
+  "extension": ".com",
+  "hostedZoneId": "Z02715341TY9YGXSEPLOA",
+  "reference": "abc39e04-7697-5303-8596-96a10431bccf",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642339416622"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1642339416679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61f98a4fd2998f28707db2c4"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "obhcreatives",
+  "FQDN": "https://mayemeraldpartners.com",
+  "domain": "mayemeraldpartners",
+  "extension": ".com",
+  "hostedZoneId": "Z0893404MR8CMKPDLC7R",
+  "reference": "b0013275-b172-5ba4-ade5-ce36431212cf",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1643743823493"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1643743823553"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620753e22768041a94dac61c"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "pantherplusacademy",
+  "FQDN": "https://pantherplusacademy.com",
+  "domain": "pantherplusacademy",
+  "extension": ".com",
+  "hostedZoneId": "Z08320462LI3I83OEJF6O",
+  "reference": "9351f437-f405-546c-8678-c80ac28de3ba",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644647394535"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1644647394600"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6230317ada6009619c5e5f69"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "kemi",
+  "FQDN": "https://lorikeet.com.ng",
+  "domain": "lorikeet",
+  "extension": ".com.ng",
+  "hostedZoneId": "Z028050412BNBHRDL39FX",
+  "reference": "c735aec7-677d-5701-a956-9df57a1137ab",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647325562636"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647325562695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626fdf438fca3c47905c2b9b"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "cryptopreneurnft",
+  "FQDN": "https://cryptopreneursocialclubnft.com",
+  "domain": "cryptopreneursocialclubnft",
+  "extension": ".com",
+  "hostedZoneId": "Z03221073RG8TXG5PA5WT",
+  "reference": "32962184-5f5b-5e61-a0ca-42ba24f23820",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651498819495"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651498819558"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bd59c5cdeafe4aa2beba76"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "BLOCKED",
+  "username": "yoursassistance",
+  "FQDN": "https://dreadit.au",
+  "domain": "dreadit",
+  "extension": ".au",
+  "hostedZoneId": "Z06158362G59SBAID5R5",
+  "reference": "994302c6-2bb3-5dee-b55b-348a8ded1ab1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656576453038"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1656576453095"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d7d09d99093d402bf0649d"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "BLOCKED",
+  "username": "yoursassistance",
+  "FQDN": "https://yoursassistance.com",
+  "domain": "yoursassistance",
+  "extension": ".com",
+  "hostedZoneId": "Z063081037UGVITAR2INO",
+  "reference": "0ee54830-94fa-5c20-84c5-8bd87ec0bd89",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658310813186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658310813248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63545e8decc3f65d49cc4f20"
+  },
+  "nsRecords": [
+    "ns-1284.awsdns-32.org",
+    "ns-840.awsdns-41.net",
+    "ns-20.awsdns-02.com",
+    "ns-1589.awsdns-06.co.uk"
+  ],
+  "status": "BLOCKED",
+  "username": "godblessnigeria",
+  "FQDN": "https://lifestyleforfree.com",
+  "domain": "lifestyleforfree",
+  "extension": ".com",
+  "hostedZoneId": "Z05320162AVUN1CTLEACN",
+  "reference": "4f677def-f086-5f4c-822e-ad694246aecc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1616082260554"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1616082260644"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a008ad370febe59d282492"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "PENDING",
+  "username": "godblessnigeria",
+  "FQDN": "https://filterdev.com",
+  "domain": "filterdev",
+  "extension": ".com",
+  "hostedZoneId": "Z03651172506XDRD8XB9K",
+  "reference": "a1dd6ea0-e0d0-5b14-a5b8-ca8eb4722391",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671432365072"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671432365170"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63ca8f799f40c86f5f432202"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "delldev",
+  "FQDN": "https://abc.com",
+  "domain": "abc",
+  "extension": ".com",
+  "hostedZoneId": "Z063186039RZ6TNBSWWH6",
+  "reference": "12261aa0-a5b4-5608-a9fe-0c8878936dcf",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674219385624"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674219385709"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6443d108fb91b34406d14086"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "naturesstandard",
+  "FQDN": "https://standardspecialists.com",
+  "domain": "standardspecialists",
+  "extension": ".com",
+  "hostedZoneId": "Z04576717DXB7302NW5L",
+  "reference": "0c1a2500-0005-579a-a75d-382fb59537a6",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682166024354"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682166024457"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "644b747efb91b34406d14190"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "godblessnigeria",
+  "FQDN": "https://nakul.com.com",
+  "domain": "nakul.com",
+  "extension": ".com",
+  "hostedZoneId": "Z094446029K5UGJ83GQUR",
+  "reference": "18001fee-9eef-54d5-9020-c31c78a49658",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682666622362"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682666622431"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "644b7ac4fb91b34406d14191"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "godblessnigeria",
+  "FQDN": "https://nakul.com",
+  "domain": "nakul",
+  "extension": ".com",
+  "hostedZoneId": "Z0538286163FE1FWGO1DN",
+  "reference": "38b0bbdf-016d-5ca1-8c7e-5add692ee8be",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682668228473"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682668228530"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6450a6dffb91b34406d141ed"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "godblessnigeria",
+  "FQDN": "https://xyz.com",
+  "domain": "xyz",
+  "extension": ".com",
+  "hostedZoneId": "Z0773333W5GS5EY42D71",
+  "reference": "bdfd14f3-5532-5949-adc2-e7e7c2e2501a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683007198963"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683007199029"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "645cc5d92bc4952e627c368e"
+  },
+  "nsRecords": [
+    "ns1.softlink.ai",
+    "ns2.softlink.ai"
+  ],
+  "status": "SUCCESS",
+  "username": "godblessnigeria",
+  "FQDN": "https://vendba.com",
+  "domain": "vendba",
+  "extension": ".com",
+  "hostedZoneId": "Z0728160P26TOIDV5XC6",
+  "reference": "b4f1509e-3ed3-5751-8b46-33be129b7965",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683801561724"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683801561841"
+    }
+  }
+}]

@@ -1,0 +1,6 @@
+FROM softlink-api:beta
+COPY server/test test
+ENV REDIS_TEST_URL=redis://h:pacc24b5b346fe2f059f6431388266a88fc79299d2647b086659646e2f367254f@ec2-34-241-47-11.eu-west-1.compute.amazonaws.com:12739
+ENV MONGODB_TEST_URI=mongodb://heroku_1gjphb73:v09s8l1k2svk6md17t4t2daq4c@ds361488.mlab.com:61488/heroku_1gjphb73
+RUN npm update
+CMD ["npm", "test"]

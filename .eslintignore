@@ -1,0 +1,16 @@
+/build/**
+/coverage/**
+/docs/**
+/jsdoc/**
+/templates/**
+/tests/bench/**
+/test-config/**
+/tests/fixtures/**
+/tests/performance/**
+/tmp/**
+next.config.js
+node_modules/
+.idea/
+.vscode/
+.env/
+src/test

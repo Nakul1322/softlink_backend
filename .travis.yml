@@ -1,0 +1,24 @@
+language: node_js
+
+node_js:
+  - 12.16.3
+
+sudo:
+  required
+
+cache:
+  directories:
+    - node_modules
+
+services:
+  - mongodb
+  - redis
+
+install:
+  - npm i
+
+before_script:
+  - npm run create:JWTKeys
+
+script:
+  - npm test

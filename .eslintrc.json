@@ -1,0 +1,106 @@
+{
+    "root": true,
+    "extends": "airbnb-base",
+    "env": {
+        "node": true,
+        "es6": true,
+        "mocha": true,
+        "commonjs": true,
+        "jest": true
+    },
+    "parser": "babel-eslint",
+    "parserOptions": {tabs
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "allowImportExportEverywhere": true,
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "plugins": [
+        "flowtype"
+    ],
+    "globals": {
+        "_": false
+    },
+    "rules": {
+        "one-var": 0,
+        "camelcase": 0,
+        "import/no-cycle": 0,
+        "no-continue": 0,
+        "no-process-env": 0,
+        "no-restricted-globals": 0,
+        "no-template-curly-in-string": 0,
+        "no-nested-ternary": 0,
+        "no-restricted-syntax": 0,
+        "guard-for-in": 0,
+        "no-await-in-loop": 0,
+        "no-underscore-dangle": [
+            1,
+            {
+                "allow": [
+                    "_id",
+                    "_doc"
+                ]
+            }
+        ],
+        "one-var-declaration-per-line": 0,
+        "import/no-dynamic-require": 0,
+        "new-cap": 0,
+        "max-len": "off",
+        "no-undefined": 0,
+        "import/no-extraneous-dependencies": [
+            "error",
+            {
+                "devDependencies": true,
+                "optionalDependencies": false,
+                "peerDependencies": false
+            }
+        ],
+        "consistent-return": 0,
+        "no-param-reassign": 0,
+        "linebreak-style": 0,
+        "comma-dangle": 0,
+        "curly": [
+            "error",
+            "multi-line"
+        ],
+        "no-undef": "off",
+        "import/no-mutable-exports": "off",
+        "import/no-unresolved": [
+            0,
+            {
+                "commonjs": true
+            }
+        ],
+        "no-shadow": [
+            2,
+            {
+                "allow": [
+                    "req",
+                    "res",
+                    "err"
+                ]
+            }
+        ],
+        "valid-jsdoc": [
+            "error",
+            {
+                "requireReturn": true,
+                "requireReturnType": true,
+                "requireParamDescription": false,
+                "requireReturnDescription": true
+            }
+        ],
+        "require-jsdoc": [
+            "error",
+            {
+                "require": {
+                    "FunctionDeclaration": true,
+                    "MethodDefinition": true,
+                    "ClassDeclaration": true
+                }
+            }
+        ]
+    }
+}

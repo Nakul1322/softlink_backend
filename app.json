@@ -1,0 +1,23 @@
+{
+  "name": "softlink-api",
+  "description": "",
+  "keywords": [],
+  "repository": "https://github.com/Digital-Medium-Africa/softlink-api",
+  "addons": [
+    "rediscloud",
+    "mongolab",
+    "heroku-redis"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "stack": "heroku-18"
+}
